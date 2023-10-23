@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-image: url("images/01.jpg");
+    background-repeat: no-repeat;
+    
+}
+
+#header {
+    color: azure;
+    text-align: center;
+    
+}
+
+#conteudo {
+    color: azure;
+    text-align: center;
+}
+
+#passing {
+    padding: 950px 50px;
+}
